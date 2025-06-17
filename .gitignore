@@ -1,0 +1,47 @@
+## .NET build results
+bin/
+obj/
+out/
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## ASP.NET files
+*.dbmdl
+*.bak
+*.log
+*.vspscc
+*.vssscc
+
+## Rider / VS Code / Visual Studio
+.vscode/
+.idea/
+.vs/
+
+## NuGet
+*.nupkg
+.nuget/
+packages/
+*.snupkg
+
+## Entity Framework
+Migrations/
+
+## Configuration and Secrets
+appsettings.Development.json
+appsettings.Local.json
+appsettings.*.Secrets.json
+
+## Logs
+*.log
+logs/
+log/
+
+## Others
+*.swp
+*.tmp
+*.DS_Store
+Thumbs.db
